@@ -1,0 +1,53 @@
+2022-02-26 10:07:55.915 | INFO     | __main__:train:64 - =========begin trainning=========
+2022-02-26 10:08:31.111 | INFO     | __main__:evaluate:120 - ====stop trainning, eval=====
+2022-02-26 10:08:40.961 | INFO     | __main__:evaluate:152 - 
+
+2022-02-26 10:08:40.962 | INFO     | __main__:evaluate:157 - ***** Eval results *****
+2022-02-26 10:08:40.962 | INFO     | __main__:evaluate:159 -  acc: 0.0000 - recall: 0.0000 - f1: 0.0000 - loss: 51.9271 
+2022-02-26 10:08:40.962 | INFO     | __main__:evaluate:160 - ***** Entity results *****
+2022-02-26 10:08:40.963 | INFO     | __main__:evaluate:162 - ******* address results ********
+2022-02-26 10:08:40.971 | INFO     | __main__:evaluate:164 -  acc: 0.0000 - recall: 0.0000 - f1: 0.0000 
+2022-02-26 10:08:40.971 | INFO     | __main__:evaluate:162 - ******* book results ********
+2022-02-26 10:08:40.971 | INFO     | __main__:evaluate:164 -  acc: 0.0000 - recall: 0.0000 - f1: 0.0000 
+2022-02-26 10:08:40.972 | INFO     | __main__:evaluate:162 - ******* company results ********
+2022-02-26 10:08:40.972 | INFO     | __main__:evaluate:164 -  acc: 0.0000 - recall: 0.0000 - f1: 0.0000 
+2022-02-26 10:08:40.972 | INFO     | __main__:evaluate:162 - ******* game results ********
+2022-02-26 10:08:40.972 | INFO     | __main__:evaluate:164 -  acc: 0.0000 - recall: 0.0000 - f1: 0.0000 
+2022-02-26 10:08:40.972 | INFO     | __main__:evaluate:162 - ******* government results ********
+2022-02-26 10:08:40.972 | INFO     | __main__:evaluate:164 -  acc: 0.0000 - recall: 0.0000 - f1: 0.0000 
+2022-02-26 10:08:40.972 | INFO     | __main__:evaluate:162 - ******* movie results ********
+2022-02-26 10:08:40.973 | INFO     | __main__:evaluate:164 -  acc: 0.0000 - recall: 0.0000 - f1: 0.0000 
+2022-02-26 10:08:40.973 | INFO     | __main__:evaluate:162 - ******* name results ********
+2022-02-26 10:08:40.973 | INFO     | __main__:evaluate:164 -  acc: 0.0000 - recall: 0.0000 - f1: 0.0000 
+2022-02-26 10:08:40.973 | INFO     | __main__:evaluate:162 - ******* organization results ********
+2022-02-26 10:08:40.973 | INFO     | __main__:evaluate:164 -  acc: 0.0000 - recall: 0.0000 - f1: 0.0000 
+2022-02-26 10:08:40.973 | INFO     | __main__:evaluate:162 - ******* position results ********
+2022-02-26 10:08:40.973 | INFO     | __main__:evaluate:164 -  acc: 0.0000 - recall: 0.0000 - f1: 0.0000 
+2022-02-26 10:08:40.974 | INFO     | __main__:evaluate:162 - ******* scene results ********
+2022-02-26 10:08:40.974 | INFO     | __main__:evaluate:164 -  acc: 0.0000 - recall: 0.0000 - f1: 0.0000 
+2022-02-26 10:09:12.424 | INFO     | __main__:evaluate:120 - ====stop trainning, eval=====
+2022-02-26 10:09:22.220 | INFO     | __main__:evaluate:152 - 
+
+2022-02-26 10:09:22.221 | INFO     | __main__:evaluate:157 - ***** Eval results *****
+2022-02-26 10:09:22.221 | INFO     | __main__:evaluate:159 -  acc: 0.6522 - recall: 0.0570 - f1: 0.1048 - loss: 21.6294 
+2022-02-26 10:09:22.222 | INFO     | __main__:evaluate:160 - ***** Entity results *****
+2022-02-26 10:09:22.222 | INFO     | __main__:evaluate:162 - ******* address results ********
+2022-02-26 10:09:22.222 | INFO     | __main__:evaluate:164 -  acc: 0.3548 - recall: 0.0287 - f1: 0.0531 
+2022-02-26 10:09:22.222 | INFO     | __main__:evaluate:162 - ******* book results ********
+2022-02-26 10:09:22.222 | INFO     | __main__:evaluate:164 -  acc: 0.0000 - recall: 0.0000 - f1: 0.0000 
+2022-02-26 10:09:22.222 | INFO     | __main__:evaluate:162 - ******* company results ********
+2022-02-26 10:09:22.222 | INFO     | __main__:evaluate:164 -  acc: 0.6500 - recall: 0.0280 - f1: 0.0537 
+2022-02-26 10:09:22.223 | INFO     | __main__:evaluate:162 - ******* game results ********
+2022-02-26 10:09:22.223 | INFO     | __main__:evaluate:164 -  acc: 0.5000 - recall: 0.0557 - f1: 0.1003 
+2022-02-26 10:09:22.223 | INFO     | __main__:evaluate:162 - ******* government results ********
+2022-02-26 10:09:22.223 | INFO     | __main__:evaluate:164 -  acc: 0.0000 - recall: 0.0000 - f1: 0.0000 
+2022-02-26 10:09:22.223 | INFO     | __main__:evaluate:162 - ******* movie results ********
+2022-02-26 10:09:22.223 | INFO     | __main__:evaluate:164 -  acc: 0.0000 - recall: 0.0000 - f1: 0.0000 
+2022-02-26 10:09:22.224 | INFO     | __main__:evaluate:162 - ******* name results ********
+2022-02-26 10:09:22.224 | INFO     | __main__:evaluate:164 -  acc: 0.8750 - recall: 0.0136 - f1: 0.0267 
+2022-02-26 10:09:22.224 | INFO     | __main__:evaluate:162 - ******* organization results ********
+2022-02-26 10:09:22.224 | INFO     | __main__:evaluate:164 -  acc: 0.7136 - recall: 0.3525 - f1: 0.4719 
+2022-02-26 10:09:22.224 | INFO     | __main__:evaluate:162 - ******* position results ********
+2022-02-26 10:09:22.224 | INFO     | __main__:evaluate:164 -  acc: 0.0000 - recall: 0.0000 - f1: 0.0000 
+2022-02-26 10:09:22.224 | INFO     | __main__:evaluate:162 - ******* scene results ********
+2022-02-26 10:09:22.225 | INFO     | __main__:evaluate:164 -  acc: 0.0000 - recall: 0.0000 - f1: 0.0000 

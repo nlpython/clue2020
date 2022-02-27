@@ -1,0 +1,27 @@
+2022-02-27 00:18:23.602 | INFO     | __main__:train:64 - =========begin trainning=========
+2022-02-27 00:19:49.135 | INFO     | __main__:evaluate:120 - ====stop trainning, eval=====
+2022-02-27 00:26:57.150 | INFO     | __main__:evaluate:152 - 
+
+2022-02-27 00:27:03.493 | INFO     | __main__:evaluate:157 - ***** Eval results *****
+2022-02-27 00:27:04.088 | INFO     | __main__:evaluate:159 -  acc: 0.0000 - recall: 0.0000 - f1: 0.0000 - loss: 51.0811 
+2022-02-27 00:27:04.292 | INFO     | __main__:evaluate:160 - ***** Entity results *****
+2022-02-27 00:27:04.949 | INFO     | __main__:evaluate:162 - ******* address results ********
+2022-02-27 00:27:05.845 | INFO     | __main__:evaluate:164 -  acc: 0.0000 - recall: 0.0000 - f1: 0.0000 
+2022-02-27 00:27:07.214 | INFO     | __main__:evaluate:162 - ******* book results ********
+2022-02-27 00:27:09.104 | INFO     | __main__:evaluate:164 -  acc: 0.0000 - recall: 0.0000 - f1: 0.0000 
+2022-02-27 00:27:13.188 | INFO     | __main__:evaluate:162 - ******* company results ********
+2022-02-27 00:27:13.189 | INFO     | __main__:evaluate:164 -  acc: 0.0000 - recall: 0.0000 - f1: 0.0000 
+2022-02-27 00:27:13.189 | INFO     | __main__:evaluate:162 - ******* game results ********
+2022-02-27 00:27:13.189 | INFO     | __main__:evaluate:164 -  acc: 0.0000 - recall: 0.0000 - f1: 0.0000 
+2022-02-27 00:27:13.189 | INFO     | __main__:evaluate:162 - ******* government results ********
+2022-02-27 00:27:13.189 | INFO     | __main__:evaluate:164 -  acc: 0.0000 - recall: 0.0000 - f1: 0.0000 
+2022-02-27 00:27:13.189 | INFO     | __main__:evaluate:162 - ******* movie results ********
+2022-02-27 00:27:13.189 | INFO     | __main__:evaluate:164 -  acc: 0.0000 - recall: 0.0000 - f1: 0.0000 
+2022-02-27 00:27:13.189 | INFO     | __main__:evaluate:162 - ******* name results ********
+2022-02-27 00:27:13.191 | INFO     | __main__:evaluate:164 -  acc: 0.0000 - recall: 0.0000 - f1: 0.0000 
+2022-02-27 00:27:13.192 | INFO     | __main__:evaluate:162 - ******* organization results ********
+2022-02-27 00:27:13.192 | INFO     | __main__:evaluate:164 -  acc: 0.0000 - recall: 0.0000 - f1: 0.0000 
+2022-02-27 00:27:13.192 | INFO     | __main__:evaluate:162 - ******* position results ********
+2022-02-27 00:27:13.192 | INFO     | __main__:evaluate:164 -  acc: 0.0000 - recall: 0.0000 - f1: 0.0000 
+2022-02-27 00:27:13.192 | INFO     | __main__:evaluate:162 - ******* scene results ********
+2022-02-27 00:27:13.192 | INFO     | __main__:evaluate:164 -  acc: 0.0000 - recall: 0.0000 - f1: 0.0000 
